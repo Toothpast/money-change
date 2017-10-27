@@ -1,0 +1,22 @@
+{
+  "name": "money-change",
+  "version": "1.0.0",
+  "description": "換算匯率",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toothpast/money-change.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toothpast/money-change/issues"
+  },
+  "homepage": "https://github.com/Toothpast/money-change#readme"
+}
